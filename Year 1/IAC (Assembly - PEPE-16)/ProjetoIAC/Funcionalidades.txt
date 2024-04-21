@@ -1,0 +1,5 @@
+0 - Move o asteroide
+1 - Move a sonda
+2 a D - Põe a tecla primida no display
+E - Diminui um contador
+F - Aumenta um contador
